@@ -1,0 +1,20 @@
+.contenedordos{
+    display: flex;
+
+  }
+.contenedor{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .c1{
+    background-color: #D9D9D9;
+    padding: 10px 50px;
+    margin: 100px -100px;
+    text-align: justify;
+  }
+  .c2{
+    background-color: #ffffff;
+    padding: 300px 200px;
+    margin: 100px 100px;  
+  }
